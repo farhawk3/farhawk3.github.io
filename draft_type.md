@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="draft-types">Draft Types</h1>
 <h2 id="overview">Overview</h2>
 <p>A <em>Draft Type</em> determines the order in which participants pick items from the <em>item pool</em> as a draft progresses.  Most draft types can be set up as either live drafts or automatic drafts.<br>
@@ -47,6 +49,3 @@ The difference is in the way subsequent rounds progress after the first round. I
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDQ0OTM1XX0=
--->
