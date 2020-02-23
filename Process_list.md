@@ -18,7 +18,9 @@ In a mock draft you are not connected to other participants. Instead you organiz
 </ul>
 <h3 id="identify-participants">Identify Participants</h3>
 <h2 id="pick-draft-type">3. Pick Draft Type</h2>
-<p>Prioritize</p>
+<p>Prioritize
+In a mock draft you are not connected to other participants. Instead you organize a draft, prioritize your picks and then conduct the draft against a number of computer agents.
+</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
